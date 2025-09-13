@@ -27,6 +27,7 @@ The car continuously detects and follows the middle lane of the race track for s
 ## Sample Output
 
 The image below shows the system in action in an urban driving scenario:
+
 ![m'lady](image1.png)
 ![m'lady](image2.png)
 ![m'lady](image3.png) 
