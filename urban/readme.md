@@ -27,6 +27,10 @@ python urban.py
 
 The system connects to the driving simulator and processes frames in real time.
 
+## Model Training
+
+The detection model for urban driving was trained using YOLOv11 Object Detection.
+This allows the system to recognize multiple traffic-related classes such as traffic lights, stop signs, turns, and other road signals, enabling real-time decision making
 ## Sample Output
 
 The image below shows the system in action in an urban driving scenario:
